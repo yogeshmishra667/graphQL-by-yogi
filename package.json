@@ -1,0 +1,16 @@
+{
+  "name": "graphql01",
+  "version": "1.0.0",
+  "description": "this is the my first apollo server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "yogi",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.9.4",
+    "graphql": "^14.5.8",
+    "nodemon": "^1.19.3"
+  }
+}
