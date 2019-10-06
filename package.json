@@ -1,7 +1,7 @@
 {
   "name": "graphql01",
   "version": "1.0.0",
-  "description": "this is the my first apollo server",
+  "description": "this is the my first apollo server in system",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
