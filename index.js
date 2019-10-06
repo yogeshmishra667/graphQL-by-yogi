@@ -45,7 +45,7 @@ const resolvers = {
           message: "bad code"
         },
         {
-          field: "this is the my field",
+          field: "this is the my field by yogi",
           message: "good code"
         }],
       user: {
